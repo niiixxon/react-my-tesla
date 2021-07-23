@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/react-tesla-page/static/js/main.d6af551e.chunk.js",
+    "main.js.map": "/react-tesla-page/static/js/main.d6af551e.chunk.js.map",
+    "runtime-main.js": "/react-tesla-page/static/js/runtime-main.a92f91ca.js",
+    "runtime-main.js.map": "/react-tesla-page/static/js/runtime-main.a92f91ca.js.map",
+    "static/js/2.7fe7630c.chunk.js": "/react-tesla-page/static/js/2.7fe7630c.chunk.js",
+    "static/js/2.7fe7630c.chunk.js.map": "/react-tesla-page/static/js/2.7fe7630c.chunk.js.map",
+    "index.html": "/react-tesla-page/index.html",
+    "static/js/2.7fe7630c.chunk.js.LICENSE.txt": "/react-tesla-page/static/js/2.7fe7630c.chunk.js.LICENSE.txt",
+    "static/media/Desktop-Accessories.027ada94.jpg": "/react-tesla-page/static/media/Desktop-Accessories.027ada94.jpg",
+    "static/media/Desktop-CyberTruck.cb3d934d.jpg": "/react-tesla-page/static/media/Desktop-CyberTruck.cb3d934d.jpg",
+    "static/media/Desktop-Model3.2b8dcea3.jpg": "/react-tesla-page/static/media/Desktop-Model3.2b8dcea3.jpg",
+    "static/media/Desktop-ModelS.fb302a0b.jpg": "/react-tesla-page/static/media/Desktop-ModelS.fb302a0b.jpg",
+    "static/media/Desktop-ModelX.5a94d33c.jpg": "/react-tesla-page/static/media/Desktop-ModelX.5a94d33c.jpg",
+    "static/media/Desktop-ModelY.cf96bc1b.jpg": "/react-tesla-page/static/media/Desktop-ModelY.cf96bc1b.jpg",
+    "static/media/Desktop-Roadster.5a09be16.jpg": "/react-tesla-page/static/media/Desktop-Roadster.5a09be16.jpg",
+    "static/media/Desktop-SolarPanels.d7d441d7.jpg": "/react-tesla-page/static/media/Desktop-SolarPanels.d7d441d7.jpg",
+    "static/media/Desktop-SolarRoof.9eb2e602.jpg": "/react-tesla-page/static/media/Desktop-SolarRoof.9eb2e602.jpg",
+    "static/media/Mobile-Accessories.9396e411.jpg": "/react-tesla-page/static/media/Mobile-Accessories.9396e411.jpg",
+    "static/media/Mobile-CyberTruck.accbbbf3.jpg": "/react-tesla-page/static/media/Mobile-CyberTruck.accbbbf3.jpg",
+    "static/media/Mobile-Model3.64b2a4e4.jpg": "/react-tesla-page/static/media/Mobile-Model3.64b2a4e4.jpg",
+    "static/media/Mobile-ModelS.0b8c1697.jpg": "/react-tesla-page/static/media/Mobile-ModelS.0b8c1697.jpg",
+    "static/media/Mobile-ModelX.50199628.jpg": "/react-tesla-page/static/media/Mobile-ModelX.50199628.jpg",
+    "static/media/Mobile-ModelY.52a3f001.jpg": "/react-tesla-page/static/media/Mobile-ModelY.52a3f001.jpg",
+    "static/media/Mobile-Roadster.2b3ace4e.jpg": "/react-tesla-page/static/media/Mobile-Roadster.2b3ace4e.jpg",
+    "static/media/Mobile-SolarPanels.927c735c.jpg": "/react-tesla-page/static/media/Mobile-SolarPanels.927c735c.jpg",
+    "static/media/Mobile-SolarRoof.b1830f5a.jpg": "/react-tesla-page/static/media/Mobile-SolarRoof.b1830f5a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a92f91ca.js",
+    "static/js/2.7fe7630c.chunk.js",
+    "static/js/main.d6af551e.chunk.js"
+  ]
+}
